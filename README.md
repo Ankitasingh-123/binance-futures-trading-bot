@@ -19,3 +19,9 @@ python cli.py --symbol BTCUSDT --side SELL --type LIMIT --quantity 0.002 --price
 
 - Minimum notional $100 enforced by Binance
 - Using Binance Futures Testnet
+
+## Features
+- Market and Limit order support
+- CLI-based trading
+- Input validation & error handling
+- Logging to `bot.log`
